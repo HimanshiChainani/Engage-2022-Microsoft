@@ -1,15 +1,9 @@
 # Engage-2022-Microsoft
 This is my data analysis project submitted for Microsoft Engage 2022
 
-After cloning the repository and having the requirements present in requirement.txt run the following command in command prompt
+After cloning the repository and having the requirements present in requirement.txt run the following command in the terminal of any IDE
 
 ### streamlit run microsoft_engage.py
-
-or
-
-You can check the dependencies and directly run the following command in command prompt
-
-### streamlit run https://github.com/HimanshiChainani/Engage-2022-Microsoft/blob/main/microsoft_engage.py
 
 file that needs to be run is microsoft_engage.py
 
